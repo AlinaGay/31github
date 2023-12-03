@@ -3,3 +3,4 @@
 # 2 day: working with strings in Ruby
 # 3 day: branching in Ruby
 # 4 day: working with numbers
+# 5 day: working with hash
