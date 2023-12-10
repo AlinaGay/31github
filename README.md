@@ -10,3 +10,5 @@
 #### 9 day: file reader
 #### 10 day: creating todoapp with Ruby on Rails
 #### 11 day: adding info to Readme file
+#### 12 day: changed main page
+#### 13 day: changed main page
