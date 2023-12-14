@@ -14,4 +14,5 @@
 #### 13 day: changed main page of todoapp: https://github.com/AlinaGay/todoapp
 #### 14 day: added tdd to 31github
 #### 15 day: added new pages to todoapp: https://github.com/AlinaGay/todoapp
-#### 15 day: added db to todoapp: https://github.com/AlinaGay/todoapp
+#### 16 day: added db to todoapp: https://github.com/AlinaGay/todoapp
+#### 17 day: added action to todoapp: https://github.com/AlinaGay/todoapp
