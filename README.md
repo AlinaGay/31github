@@ -16,3 +16,4 @@
 #### 15 day: added new pages to todoapp: https://github.com/AlinaGay/todoapp
 #### 16 day: added db to todoapp: https://github.com/AlinaGay/todoapp
 #### 17 day: added action to todoapp: https://github.com/AlinaGay/todoapp
+#### 18 day: added form to todoapp: https://github.com/AlinaGay/todoapp
