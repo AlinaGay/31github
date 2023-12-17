@@ -18,3 +18,4 @@
 #### 17 day: added action to todoapp: https://github.com/AlinaGay/todoapp
 #### 18 day: added form to todoapp: https://github.com/AlinaGay/todoapp
 #### 19 day: added flash to todoapp: https://github.com/AlinaGay/todoapp
+#### 20 day: completed show action to todoapp: https://github.com/AlinaGay/todoapp
