@@ -20,3 +20,4 @@
 #### 19 day: added flash to todoapp: https://github.com/AlinaGay/todoapp
 #### 20 day: completed show action to todoapp: https://github.com/AlinaGay/todoapp
 #### 21 day: updated todos_controller in todoapp: https://github.com/AlinaGay/todoapp
+#### 22 day: corrected mistakes in todoapp: https://github.com/AlinaGay/todoapp
