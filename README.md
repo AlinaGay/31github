@@ -22,3 +22,4 @@
 #### 21 day: updated todos_controller in todoapp: https://github.com/AlinaGay/todoapp
 #### 22 day: corrected mistakes in todoapp: https://github.com/AlinaGay/todoapp
 #### 23 day: added edit action to todoapp: https://github.com/AlinaGay/todoapp
+#### 24 day: added index action to todoapp: https://github.com/AlinaGay/todoapp
