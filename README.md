@@ -25,3 +25,4 @@
 #### 24 day: added index action to todoapp: https://github.com/AlinaGay/todoapp
 #### 25 day: added links to index page of todoapp: https://github.com/AlinaGay/todoapp
 #### 26 day: added listing to todoapp: https://github.com/AlinaGay/todoapp
+#### 27 day: added destroy action to todoapp: https://github.com/AlinaGay/todoapp
