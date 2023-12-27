@@ -27,3 +27,4 @@
 #### 26 day: added listing to todoapp: https://github.com/AlinaGay/todoapp
 #### 27 day: added destroy action to todoapp: https://github.com/AlinaGay/todoapp
 #### 28 day: corrected mistakes in todoapp: https://github.com/AlinaGay/todoapp
+#### 29 day: refactored code in todoapp: https://github.com/AlinaGay/todoapp
