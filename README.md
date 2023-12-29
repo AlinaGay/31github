@@ -30,3 +30,4 @@
 #### 29 day: refactored code in todoapp: https://github.com/AlinaGay/todoapp
 #### 30 day: refactored code in todoapp: https://github.com/AlinaGay/todoapp
 #### 31 day: corrected mistakes in todoapp: https://github.com/AlinaGay/todoapp
+#### 32 day: updated readme
