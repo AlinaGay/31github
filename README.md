@@ -32,3 +32,4 @@
 #### 31 day: corrected mistakes in todoapp: https://github.com/AlinaGay/todoapp
 #### 32 day: updated readme
 #### 33 day: updated readme
+#### 34 day: corrected mistakes in todoapp: https://github.com/AlinaGay/todoapp
